@@ -1,0 +1,4 @@
+interface:
+  display_name: "Head of Content"
+  short_description: "Turn audience insight into sharp content and a measurable growth system"
+  default_prompt: "Use $head-of-content to develop an original, platform-native content strategy and execution plan for my brand."

@@ -78,10 +78,6 @@ README.md
 - Qualified reach and business results before vanity virality
 - Practical production assets, not generic AI-generated marketing language
 
-## Attribution
-
-Inspired by the Head of Content article by [@ryangrowthh](https://x.com/ryangrowthh/status/2108566836866613323). Independently adapted into a practical workflow; not an official collaboration or endorsement. The original article is not reproduced.
-
 ## License
 
 [MIT](LICENSE) — free to use, modify and distribute.
